@@ -6,3 +6,5 @@ All of my links can be seen [Here](https://bio.link/astroorbis).
 I code in mainly in Python and HTML, but I'm learning Java, Javascript, SQL, MongoDB, and more.
 
 Feel free to contact me on my Discord! **AstroOrbis#9797**
+
+Oh yeah, and here's my [Octoprofile](https://octoprofile.vercel.app/user?id=AstroOrbis) for whoever wants it :3
