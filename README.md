@@ -14,3 +14,5 @@ Some extra stats about me for those few people that are sticking around:
 ![AstroOrbis's GitHub stats](https://github-readme-stats.vercel.app/api?username=astroorbis&count_private=true&show_icons=true&theme=radical)
 
 ![AstroOrbis's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=astroorbis&theme=radical)
+
+![AstroOrbis's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AstroOrbis&theme=radical)
