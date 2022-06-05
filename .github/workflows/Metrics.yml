@@ -77,3 +77,7 @@ jobs:
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: AstroOrbis
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://astroorbis.com
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_screenshot: yes
